@@ -19,7 +19,10 @@ Este proyecto es un clon **solo con HTML y CSS** de la página principal de YouT
 
 ## 🖼️ Vista previa
 
-![Captura del proyecto](img/landing-yt.png)
+![Captura del proyecto](https://github.com/Sebitasg14/landing-yt/blob/main/img/landing-yt.PNG)
+
+### PD
+Ese logo fue de las únicas imagenes que pude conseguir que funcionaran, pero no se iba a ver con el fondo y por eso tiene el fondo blanco
 
 ## 🚀 ¿Cómo verlo?
 
