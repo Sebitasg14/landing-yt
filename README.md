@@ -26,7 +26,7 @@ Ese logo fue de las únicas imagenes que pude conseguir que funcionaran, pero no
 
 ## 🚀 ¿Cómo verlo?
 
-Puedes abrir el archivo `index.html` directamente.
+Ve hacia esta url -> https://sebitasg14.github.io/landing-yt/ para verlo directamente.
 
 ## ⏱️ Tiempo invertido
 
